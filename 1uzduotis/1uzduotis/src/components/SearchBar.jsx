@@ -1,7 +1,7 @@
 function SearchBar() {
     return (
-      <div>
-        <input type="text" />
+      <div className="bg-blue-400">
+        <input type="text" className="bg-amber-50"/>
       </div>
     );
   }
